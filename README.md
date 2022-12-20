@@ -17,5 +17,8 @@ python generate_full_names_dob.py
 
 🎉Tips
 Make sure your input CSV file is formatted correctly. If the script is having trouble reading the file, it might be because of an extra comma or a missing quotation mark.
+
 If you want to change the output file name or location, you can modify the outfile variable in the script.
-Have fun with it! 😊 You can use this script to generate all sorts of weird and wacky full names and dates of birth. Just make sure to keep it legal and ethical.
+Have fun with it! 
+
+😊 You can use this script to generate all sorts of weird and wacky full names and dates of birth. Just make sure to keep it legal and ethical.
